@@ -6,5 +6,6 @@
    - C#
    - C
    - JavaScript
-   - And More...  
+   - And More...
+# My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minding2796&show_icons=true&theme=radical)
